@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317730542210",
+    "project_id": "bloc-login-455df",
+    "storage_bucket": "bloc-login-455df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317730542210:android:1aa454a7acdc1ae803da9b",
+        "android_client_info": {
+          "package_name": "com.bloc.firebase_auth_bloc_weather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkf6FrvpBsojVZ1JBUa5FH2cXYV5wY9gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
